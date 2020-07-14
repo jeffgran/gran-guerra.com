@@ -1,3 +1,0 @@
-[submodule "s3album"]
-	path = s3album
-	url = git@github.com:toehio/s3album.git
