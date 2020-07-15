@@ -1,0 +1,6 @@
+{
+  "input": "./galleries",
+  "output": "./website",
+  "title": "Gran Guerra Photos",
+  "theme": "cards"
+}

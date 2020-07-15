@@ -1,3 +1,3 @@
 #!/bin/bash
 
-thumbsup && aws s3 sync ./s3album/*.{js,html} s3://jg-production-gran-guerracom-origin --delete
+thumbsup --config thumbsup.config.json && aws s3 sync ./website s3://jg-production-gran-guerracom-origin --delete
